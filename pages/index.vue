@@ -15,7 +15,7 @@
             new learners.
           </p>
           <NuxtLink
-            to="https://play.google.com/store/apps/details?id=com.docspeech.docspeech"
+            to="https://play.google.com/store/apps/details?id=io.github.alamkanak.artguide"
             class="mb-8"
           >
             <NuxtImg
