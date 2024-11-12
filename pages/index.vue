@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="container mx-auto px-4">
+    <div class="container mx-auto px-8">
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
         <NuxtImg class="w-full mb-4" src="/screenshot.png" />
         <div class="flex flex-col items-center">
@@ -9,16 +9,25 @@
           <h2 class="text-center text-xl mb-4">
             Learn how to draw in clear step by step process
           </h2>
-          <p class="text-center text-gray-500">
+          <p class="text-center text-gray-500 mb-4">
             Easy step by step drawing tutorials for beginners. Learn how to draw
             and paint using animations and voice guide. Best for beginners and
             new learners.
           </p>
+          <NuxtLink
+            to="https://play.google.com/store/apps/details?id=com.docspeech.docspeech"
+            class="mb-8"
+          >
+            <NuxtImg
+              src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+              width="250"
+            ></NuxtImg>
+          </NuxtLink>
         </div>
       </div>
     </div>
     <div class="bg-gray-200 py-10">
-      <div class="container mx-auto">
+      <div class="container mx-auto px-8">
         <p>
           Easy step by step drawing tutorials for beginners. Learn how to draw
           and paint using animations and voice guide. Best for beginners and new
