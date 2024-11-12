@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 py-10">
+  <div class="container mx-auto px-8 py-10">
     <h1 class="text-3xl">Art Guide</h1>
     <h2 class="text-2xl mb-4">Delete your account</h2>
     <p>
